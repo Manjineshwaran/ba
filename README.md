@@ -363,5 +363,3 @@ Work through the checklist yourself. When you want the agent to implement someth
 - “Do Step 2 — production readiness”
 - “Help me write the pytest tests for Step 4”
 - “Create the GitHub Actions workflow for Step 5”
-#   b a  
- 
