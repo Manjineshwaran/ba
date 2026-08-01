@@ -58,7 +58,7 @@ Interactive docs (when server is running): [http://localhost:8000/docs](http://l
 - [x] **Step 2** — Production readiness (CORS + DB init)
 - [x] **Step 3** — Git + GitHub
 - [x] **Step 4** — Tests
-- [ ] **Step 5** — Continuous Integration (GitHub Actions)
+- [x] **Step 5** — Continuous Integration (GitHub Actions)
 - [ ] **Step 6** — Deploy backend on Render (CD)
 
 ---
